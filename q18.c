@@ -2,6 +2,7 @@
 #include <stdlib.h>
 //The next greater element of some element x in an array is the first greater element that is to the right of x in the same array.
 // Function prototype
+// after changes
 int* nextGreaterElement(int* nums1, int nums1Size, int* nums2, int nums2Size, int* returnSize);
 
 int* nextGreaterElement(int* nums1, int nums1Size, int* nums2, int nums2Size, int* returnSize){
