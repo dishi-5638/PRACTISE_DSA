@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//first code changed
 // Node structure
 struct Node {
     int data;
